@@ -1,4 +1,4 @@
-# Debug Kit
+# DevKit Kit
 DevKit is a debugging tool for WordPress.
 
 ## Examples
