@@ -1,0 +1,15 @@
+{
+    "name": "syedgalibahmed/devkit",
+    "autoload": {
+        "psr-4": {
+            "DevKit\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Syed Galib Ahmed",
+            "email": "syedgalibahmed@gmail.com"
+        }
+    ],
+    "require": {}
+}
